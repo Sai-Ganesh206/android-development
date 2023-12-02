@@ -1,0 +1,4 @@
+1)Activity
+2)Content-Providers
+3)Broadcast receivers
+4)Services
